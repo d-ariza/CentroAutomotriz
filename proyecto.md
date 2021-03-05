@@ -13,13 +13,14 @@
   - [Estructura administrativa](#estructura-administrativa)
   - [Actividades habituales](#actividades-habituales)
   - [Levantamiento de requerimientos](#levantamiento-de-requerimientos)
+    - [Requerimientos del cliente](#requerimientos-del-cliente)
     - [Analisis](#analisis-1)
   - [Requerimientos del sistema](#requerimientos-del-sistema)
 
 ## Descripcion del proyecto
 
 - El proyecto se basa en generar la documentación de una aplicación de
-escritorio con conexión a base de datos en la cual el usuario selecciona la
+web con conexión a base de datos en la cual el usuario selecciona la
 sucursal el área y servicio, ingresa sus datos personales, los datos del vehículo
 y se le genera un turno que se guarda en la base de datos y se envía
 confirmación al correo electrónico.
@@ -120,13 +121,21 @@ lugar.
 
 ## Levantamiento de requerimientos
 
+### Requerimientos del cliente
+
 - El centro automotriz FAMSO requiere una aplicacion la cual permite al cliente gestionar su turno y acceder a los servicios del centro automotriz de manera optima y eficaz.
 
 ### Analisis
-1. Disponibilidad de maquinas que se usara para kla creacion del programa.
-2. IDE que se va a usar para crear dicho programa.
-3. Conocimiento en *JAVA* y *MySQL*.
-4. Hacer entrega de producto con óptimo rendimiento y funcionalidad. 
+1. Disponibilidad de conexión a internet.
+
+2. Adquirir un hosting server.
+
+3. Creación de base de datos.
+
+4. Diseño de la pagina del formulario.
+
+5. Uso de lenguajes HTML, CSS, JAVA, MYSQL SERVER.
+ 
 <br>
 <br>
 
@@ -139,5 +148,17 @@ lugar.
 |         Sistema operativo de 64 bits    |        Sistema operativo de 64 bits        |
 |         Windows 7                       |        Windows 10                          |
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 

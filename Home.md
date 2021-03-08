@@ -1,15 +1,3 @@
 ## Requerimientos del sistema
 
-
-
-|          Requerimientos minimos         |        requerimientos recomendados         |
-
-| :--------------------------------------:|:------------------------------------------:|
-
-|         Procesador de dos nucleos       |        procesador de cuatro nucleos        |
-
-|         Memoria RAM 2GB                 |        memoria RAM 8 GB                    |
-
-|         Sistema operativo de 64 bits    |        Sistema operativo de 64 bits        |
-
-|         Windows 7                       |        Windows 10                          |
+Este es un proyecto que tiene como fin hacer un programa que los usuarios ingresen sus datos y los del vehículo para almacenarlos en un base de datos y así acceder a ellos para generar un turno en un centro automotriz

@@ -7,8 +7,8 @@
     1. [Ingreso a la pagina](#Ingreso-a-la-pagina)
     2. [Registro de datos](#Registro-de-datos)
         - [Datos del usuario](#Datos-personales)
-        - [Datos del vehículo](#Datos-del-vehiculo)
-    3. [Entrega del turno](#equipo-integrantes)
+        - [Datos del vehículo](#Datos-del-vehículo)
+    3. [Entrega del turno](#Entrega-del-turno)
  
  ## Objetivo
 

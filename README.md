@@ -24,8 +24,6 @@ web con conexión a base de datos en la cual el usuario selecciona la
 sucursal el área y servicio, ingresa sus datos personales, los datos del vehículo
 y se le genera un turno que se guarda en la base de datos y se envía
 confirmación al correo electrónico.
-<br>
-<br>
 
 ## Alcance del proyecto
 
@@ -35,8 +33,6 @@ y confianza.
 
 -Reducir los tiempos de busqueda y espera para generar mayor eficiencia al
 momento de atender a nuestros clientes.
-<br>
-<br>
 
 ## Etapas
 
@@ -53,37 +49,23 @@ momento de atender a nuestros clientes.
 - Entrega de la documentación.
 - Entrega del proyecto.
 - Finalización del proyecto.
-<br>
-<br>
+
 
 ## Analisis
 
   ### Equipo: Integrantes:
+  1. David Ariza - Programador
+  2. Lorena - 
+  3. Preguntar nombre al COmpañero **TODO**
 
-  1. María José Sánchez Reyes, **lider**.
-   
-  2. Andres Felipe Ramírez Hernández, **Diseñador Mockup**.
-   
-  3. Santiago Nariño Cárdenas, **Programador Front-end**.
-  4. Juan Felipe Betancourt Beltrán, **Gestor de Base de datos**.
-   
-  5. Felipe Vargas Palacios, **Diseñador**. 
-   
-  6. Jeiron Osorio, **Programador GitHub**.
-<br>
-<br>
 
 ## Infraestructura de desarrollo
-<br>
+
 
 |              procesador(cpu)            | RAM  |          S.O           |
 | :--------------------------------------:|:----:|:----------------------:|
-|      Intel(R) Celeron(R) N4000 x64      |  4GB | Windows 10 ARQ(64 bits)|
-|      Intel(R) Core(TM) i3 5020u x64     |  6GB | Windows 10 ARQ(64 bits)|
-|      Intel(R) Core(TM)i5 x64            |  8GB | Windows 10 Pro(64 bits)|
-|      Intel(R) Core(TM) i5-2320 x64      | 16GB | Windows 10 Pro(64 bits)|
-|      AMD A8-3500M APU                   | 4GB  | Windows 7 HOME(64 bits)|
-|      Intel(R) Celeron(R) N4000 x64      | 4GB  | Windows 10 ARQ(64 bits)|
+|      AMD A8-3500M APU                   | 12GB  | Linux Arch(64 bits)|
+
 <br>
 
 ## Modelo de negocio
@@ -108,16 +90,13 @@ lugar.
 4. Manager de Mercadeo y publicidad 
 5. Tecnico - mecanico
 6. Conserje
-<br>
-<br>
+
 
 ## Actividades habituales
 
 1. Analisis del trabajo a realizar.
 2. Busqueda de informacion del trabajo a realizar(si se esta haciendo por primera vez).
 3. Preparacion de las herramientas segun el trabajo que se vaya a realizar.
-<br>
-<br>
 
 ## Levantamiento de requerimientos
 
@@ -136,8 +115,7 @@ lugar.
 
 5. Uso de lenguajes HTML, CSS, JAVA, MYSQL SERVER.
  
-<br>
-<br>
+
 
 ## Requerimientos del sistema
 
@@ -148,17 +126,3 @@ lugar.
 |         Sistema operativo de 64 bits    |        Sistema operativo de 64 bits        |
 |         Windows 7                       |        Windows 10                          |
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
